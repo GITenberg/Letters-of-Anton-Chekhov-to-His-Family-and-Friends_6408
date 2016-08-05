@@ -1,0 +1,42 @@
+_repo: Letters-of-Anton-Chekhov-to-His-Family-and-Friends_6408
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Tshehov, Anton
+    - Tchekhov, Anton
+    - Чехов, Антон Павлович
+    - Chekov, Anton Pavlovich
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Russian -- 19th century -- Correspondence'
+- !lcc 'PG'
+- !lcsh 'Chekhov, Anton Pavlovich, 1860-1904 -- Correspondence'
+- GITenberg
+title: Letters of Anton Chekhov to His Family and Friends
+url: http://www.gutenberg.org/ebooks/6408
